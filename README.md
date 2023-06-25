@@ -1,4 +1,4 @@
-# work_day_scheduler
+# Work Day Scheduler
 
 ## Description
 
@@ -7,10 +7,12 @@ This application is a daily scheduler, it has 1 hour timeslots throughout the da
 ## Running the project
 
 The project can be accessed through the following webpage and Repository URl's:
-Webpage:
-Github Repository:
+Webpage: https://andysu7117.github.io/work_day_scheduler/
+Github Repository: https://github.com/Andysu7117/work_day_scheduler
 
 The landing page should look like this:
+![image](https://github.com/Andysu7117/work_day_scheduler/assets/104291853/2ecff369-425b-4b23-8c6f-a6d1dffc23ff)
+
 
 ## How to use
 
